@@ -20,12 +20,6 @@ body{
 
 /* ===== DECOR CHUNG ===== */
 .decor{
-    position:fixed;
-    pointer-events:none;
-    z-index:2;
-    animation: sway 8s ease-in-out infinite;
-    transform-origin: top center;
-    opacity:0.95;
 }
 
 /* Vị trí */
@@ -66,4 +60,5 @@ body{
         transform: translateY(110vh) rotate(360deg);
         opacity:0.8;
     }
+
 }
