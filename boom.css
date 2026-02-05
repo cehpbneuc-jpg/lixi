@@ -20,6 +20,7 @@ body{
 
 /* ===== DECOR CHUNG ===== */
 .decor{
+    display:none;
 }
 
 /* Vị trí */
@@ -62,3 +63,4 @@ body{
     }
 
 }
+
